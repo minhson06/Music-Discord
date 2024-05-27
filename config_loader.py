@@ -20,7 +20,7 @@ DEFAULT_CONFIG = {
     "BOT_ADD_REMOVE_LOG": '',
     "ERROR_REPORT_WEBHOOK": '',
     "AUTO_ERROR_REPORT_WEBHOOK": '',
-    "INTERACTION_COMMAND_ONLY": False,
+    "INTERACTION_COMMAND_ONLY": True,
     "PRESENCE_INTERVAL": 900,
     "SOURCE_REPO": "https://github.com/SeasonPhan/MuseHeart-MusicBot-EN.git",
     "SUPPORT_SERVER": "",
